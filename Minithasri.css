@@ -1,0 +1,150 @@
+.Name {
+  font-weight: bolder;
+  font-size: 24px;
+  margin-bottom: 15px;
+  text-indent: 270px;
+  margin-top: -40px;
+  background-color: #074d39;
+  padding: 20px;
+  color: white;
+}
+
+.Address {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.Contact {
+  font-size: 18px;
+}
+
+.Font {
+  /* text-decoration: underline; */
+  margin-top: 8px;
+  font-size: 20px;
+  list-style: none;
+}
+
+.Skills span {
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: -39px;
+  list-style: none;
+}
+
+.Skills {
+  font-size: 18px;
+  /* margin-left: -39px; */
+  list-style: none;
+  line-height: 20px;
+  margin-top: -10px;
+}
+
+.Skillsa {
+  font-size: 18px;
+  margin-left: -40px;
+  list-style: none;
+  margin-top: -10px;
+}
+
+.Paragraph1 {
+  font-size: 18px;
+  list-style: none;
+  margin-top: -8px;
+}
+.Paragraph {
+  font-size: 18px;
+  list-style: none;
+  margin-top: -8px;
+}
+.List {
+  font-size: 18px;
+  margin-left: -40px;
+  line-height: 30px;
+  margin-top: -8px;
+  list-style: none;
+}
+
+.align {
+  margin-left: 80px;
+  font-size: 18px;
+}
+li {
+  /* list-style: none; */
+}
+.School {
+  margin-left: 255px;
+  font-size: 18px;
+}
+.Sschool {
+  margin-left: 310px;
+  font-size: 18px;
+}
+
+.page {
+  width: 21cm;
+  min-height: 29.7cm;
+  padding: 2cm;
+  margin: 1cm auto;
+  border: 1px #d3d3d3 solid;
+  border-radius: 5px;
+  background: white;
+}
+
+.line {
+  min-height: 2px;
+  border-bottom: 2px solid #074d39;
+  color: #074d39;
+
+  margin-top: -10px;
+}
+span {
+  font-weight: bold;
+  /* background-color: red; */
+}
+
+.button:hover {
+  background-color: #2c836a;
+}
+.button {
+  background-color: #72ad9c;
+  color: white;
+}
+ul {
+  list-style: none;
+  font-size: 18px;
+  line-height: 1;
+}
+p {
+  font-size: 18px;
+}
+.course {
+  margin-left: -39px;
+  line-height: -20px;
+}
+.certificate {
+  line-height: -10px;
+  margin-top: -10px;
+}
+.certificatea {
+  /* line-height: 43px; */
+  /* margin-top: -21px; */
+  margin-top: 16px;
+}
+.education {
+  line-height: 25px;
+}
+.task {
+  margin-left: -40px;
+  line-height: 25px;
+}
+.liveA {
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+.id {
+  border: solid 1px black;
+}
+.summarystyle {
+  /* display: flex; */
+}
